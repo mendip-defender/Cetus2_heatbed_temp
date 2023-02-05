@@ -8,7 +8,7 @@ I have recently had my Cetus2 3d printer arrive and following some issues with p
 ![Setup](20230130_192300.jpg)
 
 ## Graph
-![Graph](Heat Bed Graph - ALL.png)
+![Graph](Heat_Bed_Graph-ALL.png)
 
 ## What happened
 1. Done from Cold, I first asked the Cetus2 to pre-heat the bed.
@@ -18,3 +18,4 @@ I have recently had my Cetus2 3d printer arrive and following some issues with p
 
 ## Data
 I have saved the data as a csv file and you are welcome to have a look through that.
+![Setup](Heat_Bed_Log.csv)
