@@ -18,4 +18,4 @@ I have recently had my Cetus2 3d printer arrive and following some issues with p
 
 ## Data
 I have saved the data as a csv file and you are welcome to have a look through that.
-![Setup](Heat_Bed_Log.csv)
+![CSV File](Heat_Bed_Log.csv)
