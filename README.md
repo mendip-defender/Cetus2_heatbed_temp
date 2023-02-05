@@ -11,7 +11,7 @@ I have recently had my Cetus2 3d printer arrive and following some issues with p
 ![Graph](Heat_Bed_Graph-ALL.png)
 
 ## What happened
-1. Done from Cold, I first asked the Cetus2 to pre-heat the bed.
+1. Started from Cold, I first asked the Cetus2 to pre-heat the bed.
 2. Printed a Frog.
 3. Asked to pre-heat the bed again. The fans where causing issues.
 4. I unplugged the fans and tried the pre-heat again and this was rather uniform.
